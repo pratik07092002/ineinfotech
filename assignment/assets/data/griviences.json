@@ -1,0 +1,39 @@
+{
+    "Grievances" : [
+{
+    "Id" : "GR1234" , 
+    "title" : "How to initiate Vue v-checkbox as false ? " , 
+    "description" : " Lorem Ipsum has been the industry's standard dummy text ever since the 1500s . " 
+,
+"category" : "Water Problem", 
+"Assignedto" : "Satyjit Sing" , 
+"InitiatedOn" : "21 July 2024" , 
+"Resolved" : true 
+
+}, 
+{
+    "Id" : "GR1234" , 
+    "title" : "How to initiate Vue v-checkbox as false ? " , 
+    "description" : " Lorem Ipsum has been the industry's standard dummy text ever since the 1500s ." 
+,
+"category" : "Water Problem", 
+
+"Assignedto" : "Satyjit Sing" , 
+"InitiatedOn" : "21 July 2024" , 
+"Resolved" : false 
+
+}, 
+{
+    "Id" : "GR1234" , 
+    "title" : "How to initiate Vue v-checkbox as false ? " , 
+    "description" : " Lorem Ipsum has been the industry's standard dummy text ever since the 1500s ." 
+,
+"category" : "Water Problem", 
+
+"Assignedto" : "Satyjit Sing" , 
+"InitiatedOn" : "21 July 2024" , 
+"Resolved" : true 
+
+}
+    ]
+}

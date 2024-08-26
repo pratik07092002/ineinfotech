@@ -1,0 +1,76 @@
+{
+  "notificationsToday": [
+    {
+      "id": 1,
+      "userName": "Annie Joseph",
+      "userImage": "assets/profilepic2.png",
+      "action": "Added New Grievance",
+      "timeAgo": "3 min ago"
+    },
+    {
+      "id": 2,
+      "userName": "Samir Nagar",
+      "userImage": "assets/profilepic1.png",
+      "action": "Added New Activity and Commented on Rishi Verma’s Post",
+      "timeAgo": "10 min ago"
+    },
+    {
+      "id": 3,
+      "userName": "Janni Joseph",
+      "userImage": "assets/profilepic3.png",
+      "action": "Commented On Jay’s Activity",
+      "timeAgo": "1h ago"
+    },
+    {
+      "id": 4,
+      "userName": "Martin Butcher",
+      "userImage": "assets/profilepic1.png",
+      "action": "Added New Grievance",
+      "timeAgo": "3h ago"
+    },
+    {
+      "id": 5,
+      "userName": "Luie Joseph",
+      "userImage": "assets/profilepic3.png",
+      "action": "Added New Grievance",
+      "timeAgo": "10h ago"
+    }
+  ],
+  "notificationsThisWeek": [
+    {
+      "id": 6,
+      "userName": "Jay Patel",
+      "userImage": "assets/profilepic2.png",
+      "action": "Added New Grievance",
+      "timeAgo": "1d ago"
+    },
+    {
+      "id": 7,
+      "userName": "Annie Joseph",
+      "userImage": "assets/profilepic1.png",
+      "action": "Added New Grievance",
+      "timeAgo": "1d ago"
+    },
+    {
+      "id": 8,
+      "userName": "Annie Joseph",
+      "userImage": "assets/profilepic3.png",
+      "action": "Added New Grievance",
+      "timeAgo": "2d ago"
+    },
+    {
+      "id": 9,
+      "userName": "Annie Joseph",
+      "userImage": "assets/profilepic2.png",
+      "action": "Added New Grievance",
+      "timeAgo": "5d ago"
+    },
+    {
+      "id": 10,
+      "userName": "Annie Joseph",
+      "userImage": "assets/profilepic1.png",
+      "action": "Added New Grievance",
+      "timeAgo": "6d ago"
+    }
+  ]
+}

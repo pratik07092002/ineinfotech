@@ -1,0 +1,46 @@
+{
+    "admin": {
+      "name": "Pratik",
+      "avatar_url": "assets/profilepic4.png"
+    },
+    "stats": {
+      "community_manager": 124,
+      "task_managers": 24,
+      "total_users": 24,
+      "total_grievance": 8
+    },
+    "latest_grievances": [
+      {
+        "title": "How to initiate Vue v-checkbox as false?",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+      },
+      {
+        "title": "How to initiate Vue v-checkbox as false?",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+      }
+    ],
+    "latest_activity": [
+      {
+        "name": "Martin Butcher",
+        "username": "@martinb41",
+        "userprofile" : "assets/profilepic4.png",
+        "time": "5 Min ago",
+        "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demo dbshjabxsjhabsjbhjbj",
+        "image_url": "assets/road.jpg",
+        "likes": 10,
+        "comments": 3
+      },
+      {
+        "name": "Martin Butcher",
+        "username": "@martinb41",
+        "time": "5 Min ago",
+        "userprofile" : "assets/profilepic2.png",
+
+        "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demo...",
+        "image_url": "assets/road.jpg",
+        "likes": 16,
+        "comments": 5
+      }
+    ]
+  }
+  
