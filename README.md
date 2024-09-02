@@ -2,7 +2,7 @@
 ![ForgetPassword](https://raw.githubusercontent.com/pratik07092002/ineinfotech/main/assignment/screenshots/ForgetPassword.jpg)
 
 ### All Grievance 
-![Grievance](https://raw.githubusercontent.com/pratik07092002/ineinfotech/main/assignment/screenshots/Grievance.jpg)
+![Grievance](https://raw.githubusercontent.com/pratik07092002/ineinfotech/main/assignment/screenshots/Grivieance.jpg)
 
 ### Home
 ![Home](https://raw.githubusercontent.com/pratik07092002/ineinfotech/main/assignment/screenshots/Home.jpg)
