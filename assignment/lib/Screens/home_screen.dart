@@ -216,7 +216,12 @@ final grieviences = _homeScreenController.latestgraviencesList;
                                 children: [
                                    CircleAvatar(
                                     radius: 25,
-                                    child: Image.asset(activity.profilepic , fit: BoxFit.cover,),
+                                    child: ClipOval(
+                                      
+                                      child: Image.asset(
+                                        height: 50, 
+                                        width: 50,
+                                        activity.profilepic , fit: BoxFit.cover,)),
                                   ),
                                   Padding(
                                     padding: const EdgeInsets.all(8.0),
